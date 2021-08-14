@@ -1,0 +1,29 @@
+body
+{
+ background-color: gray;
+ margin:0
+}
+.header
+{
+    display:flex;
+    justify-content:space-between;
+    background-color:crimson;
+
+}
+.games
+{
+    display:flex;
+    justify-content:space-between;
+    background-color:lightgrey
+}
+.social
+{
+    display:flex;
+    justify-content:flex-start;
+    background-color:gray
+}
+.description
+{
+    display:flex;
+    justify-content:center;
+}
